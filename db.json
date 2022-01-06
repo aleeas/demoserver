@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "image":"https://random.imagecdn.app/300/150" },
-    { "id": 2, "title": "Post 2", "image":"https://random.imagecdn.app/300/150" },
-    { "id": 3, "title": "Post 3", "image":"https://random.imagecdn.app/300/150" }
+    { "id": 1, "title": "Post 1", "description":"lorem ipsum dolor sit amet fusce","image":"https://random.imagecdn.app/300/150" },
+    { "id": 2, "title": "Post 2", "description":"lorem ipsum dolor sit amet fusce", "image":"https://random.imagecdn.app/300/150" },
+    { "id": 3, "title": "Post 3", "description":"lorem ipsum dolor sit amet fusce","image":"https://random.imagecdn.app/300/150" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
